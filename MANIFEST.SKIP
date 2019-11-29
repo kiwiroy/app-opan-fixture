@@ -1,0 +1,13 @@
+^\.git/.*
+^\.gitignore$
+
+^MANIFEST\..*$
+^Makefile$
+^Makefile\.old$
+
+^README\.pod$
+
+^blib/
+^pm_to_blib$
+
+^.*\.tar\.gz$
